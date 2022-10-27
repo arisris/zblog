@@ -1,0 +1,32 @@
+{
+  "folders": [
+    {
+      "name": "__ROOT__",
+      "path": "./"
+    },
+    {
+      "name": "@zblog-apps/api",
+      "path": "./apps/api"
+    },
+    {
+      "name": "@zblog-apps/web",
+      "path": "./apps/web"
+    },
+    {
+      "name": "@zblog-apps/docs",
+      "path": "./apps/docs"
+    },
+    {
+      "name": "@zblog/ui",
+      "path": "./packages/ui"
+    },
+    {
+      "name": "@zblog/database",
+      "path": "./packages/database"
+    },
+    {
+      "name": "@zblog/tsconfig",
+      "path": "./packages/tsconfig"
+    }
+  ]
+}

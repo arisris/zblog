@@ -1,0 +1,5 @@
+{
+  "extends": "@zblog/tsconfig/vite.json",
+  "include": ["src/**/*.ts", "src/**/*.tsx", "vite.config.ts"],
+  "exclude": ["node_modules"]
+}
