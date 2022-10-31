@@ -1,20 +1,12 @@
 {
   "folders": [
     {
-      "name": "__ROOT__",
-      "path": "./"
-    },
-    {
-      "name": "@zblog-apps/api",
-      "path": "./apps/api"
-    },
-    {
       "name": "@zblog-apps/web",
       "path": "./apps/web"
     },
     {
-      "name": "@zblog-apps/docs",
-      "path": "./apps/docs"
+      "name": "@zblog/rpc",
+      "path": "./packages/rpc"
     },
     {
       "name": "@zblog/ui",
@@ -27,6 +19,14 @@
     {
       "name": "@zblog/tsconfig",
       "path": "./packages/tsconfig"
+    },
+    {
+      "name": "@zblog-apps/docs",
+      "path": "./apps/docs"
+    },
+    {
+      "name": "__ROOT__",
+      "path": "./"
     }
   ]
 }
